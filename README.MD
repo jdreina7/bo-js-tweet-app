@@ -2,7 +2,7 @@
 
 Una app para almacenar Tweets personales en el localStorage
 
-![Portada](https://github.com/jdreina7/bo-js-tweet-app/master/assets/portada.png)
+![Portada](https://github.com/jdreina7/bo-js-tweet-app/blob/master/assets/portada.png)
 
 ## Recurso gratuito
 ---
